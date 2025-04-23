@@ -1,5 +1,7 @@
 # Coin Classification Using Image Processing and Unsupervised Learning in MATLAB
 
+👉 [See detailed image results here](Figures.md)
+
 **Overview**
 This MATLAB project demonstrates an image processing pipeline to detect, segment, and classify coins (dimes, nickels, quarters) from a composite grayscale image using Otsu thresholding, morphological operations, template matching filters, and unsupervised learning (k-means clustering).
 
